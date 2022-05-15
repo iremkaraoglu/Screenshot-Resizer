@@ -1,0 +1,10 @@
+{
+  "name": "Scale for Device",
+  "id": "1107647414678036436",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}
