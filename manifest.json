@@ -1,10 +1,8 @@
 {
-  "name": "Scale for Device",
+  "name": "Screenshot-Resizer",
   "id": "1107647414678036436",
   "api": "1.0.0",
   "main": "code.js",
-  "editorType": [
-    "figma"
-  ],
+  "editorType": ["figma"],
   "ui": "ui.html"
 }
