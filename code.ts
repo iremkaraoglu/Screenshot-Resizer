@@ -84,6 +84,82 @@ function runPlugin() {
       Scale: "2",
       Models: ["iPad Mini (6th gen)"],
     },
+    "1620-2160": {
+      Width: "1620",
+      Height: "2160",
+      Scale: "2",
+      Models: [
+        "iPad 9th gen",
+        "iPad 8th gen",
+        "iPad 7th gen",
+        "iPad Mini 5th gen",
+      ],
+    },
+    "2048-2732": {
+      Width: "2048",
+      Height: "2732",
+      Scale: "2",
+      Models: [
+        "iPad Pro 5th gen 12.9 inch",
+        "iPad Pro 4th gen 12.9 inch",
+        "iPad Pro 4th gen 12.9 inch",
+        "iPad Pro 3rd gen 12.9 inch",
+        "iPad Pro 2nd gen 12.9 inch",
+        "iPad Pro 1st gen 12.9 inch",
+      ],
+    },
+    "1668-2388": {
+      Width: "1668",
+      Height: "2388",
+      Scale: "2",
+      Models: [
+        "iPad Pro 5th gen 11 inch",
+        "iPad Pro 4th gen 11 inch",
+        "iPad Pro 3rd gen 11 inch",
+      ],
+    },
+    "1640-2360": {
+      Width: "1640",
+      Height: "2360",
+      Scale: "2",
+      Models: ["iPad Air 4th gen"],
+    },
+    "1536-2048": {
+      Width: "1536",
+      Height: "2048",
+      Scale: "2",
+      Models: [
+        "iPad Mini 5th gen",
+        "iPad 6th gen",
+        "iPad 5th gen",
+        "iPad Pro 1st gen 9.7",
+        "iPad Mini 4th gen",
+        "iPad Air 2",
+        "iPad Mini 3",
+        "iPad Mini 2",
+        "iPad Air",
+        "iPad 4th gen",
+        "iPad 3rd gen",
+      ],
+    },
+    "1668-2224": {
+      Width: "1668",
+      Height: "2224",
+      Scale: "2",
+      Models: ["iPad Air 3rd gen", "iPad Pro 2nd gen 10.5 inch"],
+    },
+    "1536-2732": {
+      Width: "1536",
+      Height: "2732",
+      Scale: "2",
+      Models: ["iPad Pro 2nd gen 12.9 inch", "iPad Pro 1st gen 12.9 inch"],
+    },
+    "768-1024": {
+      Width: "768",
+      Height: "1024",
+      Scale: "1",
+      Models: ["iPad Mini", "iPad 2", "iPad 1st gen"],
+    },
   };
 
   for (const node of figma.currentPage.selection) {
