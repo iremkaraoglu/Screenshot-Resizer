@@ -12,11 +12,6 @@ You may download the plugin from [here.](https://www.figma.com/community/plugin/
 
 When developing a mobile product, it is essential to have the outcome matching with the design. By this Figma Plugin, you will be able to check easily your device / simulator screenshot with the design on Figma. 
 
-## How to contribute 
-
-Currently, the plugin supports **only iOS** device screen resolutions. I would be glad if you may add some Android device support.
-If you find any bug or mistake about the resolutions, feel free to share it with me via **hi@iremkaraoglu.com** , open an issue or open a PR.
-
 ## Installation
 
 This plugin uses Typescript and NPM, two standard tools in creating JavaScript applications.
@@ -39,3 +34,8 @@ In the directory of your plugin, run typescript compiler in watch mode by using 
 For the Figma connection, you can find instructions at:
 
 https://www.figma.com/plugin-docs/setup/
+
+## How to contribute 
+
+Currently, the plugin supports **only iOS** device screen resolutions. I would be glad if you may add some Android device support.
+If you find any bug or mistake about the resolutions, feel free to share it with me via **hi@iremkaraoglu.com** , open an issue or open a PR.
